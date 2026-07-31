@@ -1,0 +1,146 @@
+% LaTeX prototype for TEAS Study Planner (A4, minimal)
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{array}
+\geometry{left=20mm,right=20mm,top=18mm,bottom=18mm}
+\pagestyle{empty}
+
+% Color definitions (minimal palette)
+\definecolor{mathcolor}{HTML}{4F86F7}
+\definecolor{sciencecolor}{HTML}{34A853}
+\definecolor{readingcolor}{HTML}{FBBC05}
+\definecolor{englishcolor}{HTML}{EA4335}
+
+\newcommand{\SectionDivider}[2]{%
+  \vspace*{6mm}
+  \noindent\colorbox{#1}{\parbox{\linewidth}{\vspace{6pt}\centering\Large\bfseries\color{white}#2\vspace{6pt}}}
+  \vspace{6mm}
+}
+
+\begin{document}
+
+% Cover Page
+\begin{center}
+  {\LARGE\bfseries TEAS 30-Day Study Planner — Prototype}\\[8pt]
+  {\large August 2–31, 2026}\\[16pt]
+  {\normalsize Minimal color-coded planner prototype (5 pages)}\\[12pt]
+  \vfill
+  {\small Generated from repository: TEAS-Study-Plan-Calendar}
+\end{center}
+\newpage
+
+% Section divider example (Math)
+\SectionDivider{mathcolor}{Math — Section (Example)}
+\noindent {\textbf{Overview:}} Focused practice for fractions, decimals, and percentages with exact Khan Academy lessons listed in the daily pages.\\
+\vspace{6mm}
+\noindent {\textbf{Quick Tips:}} Show your work, time yourself, and review errors immediately.\\
+\newpage
+
+% Daily Page: Aug 02, 2026
+{\large \textbf{Sunday, August 02, 2026 — Math: Fractions, decimals, percentages}}\\[6pt]
+\noindent {\textbf{Resources:}} Khan Academy; Organic Chemistry Tutor; Union Test Prep\\[6pt]
+\noindent {\textbf{Exact Lessons / Videos:}}
+\begin{itemize}
+  \item Fractions — Khan Academy: \url{https://www.khanacademy.org/math/arithmetic/fraction-arithmetic}
+  \item Decimals — Khan Academy: \url{https://www.khanacademy.org/math/arithmetic/decimals}
+  \item Percentages — Khan Academy: \url{https://www.khanacademy.org/math/pre-algebra/percent-decimals}
+\end{itemize}
+\vspace{4mm}
+\noindent {\textbf{Daily Routine (selected study slots):}}\\
+Study 1 (9:00–10:30) — Focus: Fractions\\
+\vspace{2mm}
+\noindent {\textbf{Notes (after Study 1):}}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[6pt]
+Study 2 (10:45–12:15) — Focus: Decimals\\
+\vspace{2mm}
+\noindent {\textbf{Notes (after Study 2):}}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[6pt]
+Study 3 (13:00–14:30) — Focus: Percentages\\
+\vspace{2mm}
+\noindent {\textbf{Notes (after Study 3):}}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[2pt]
+\rule{\linewidth}{0.5pt}
+\newpage
+
+% Daily Page: Aug 03, 2026
+{\large \textbf{Monday, August 03, 2026 — Math: Algebra & equations}}\\[6pt]
+\noindent {\textbf{Resources:}} Khan Academy; Organic Chemistry Tutor; Union Test Prep\\[6pt]
+\noindent {\textbf{Exact Lessons / Videos:}}
+\begin{itemize}
+  \item Solving linear equations — Khan Academy: \url{https://www.khanacademy.org/math/algebra/one-variable-linear-equations}
+  \item Systems of equations intro — Khan Academy: \url{https://www.khanacademy.org/math/algebra/systems}
+\end{itemize}
+\vspace{4mm}
+\noindent {\textbf{Daily Routine (selected study slots):}}\\
+Study 1 (9:00–10:30) — Focus: Linear equations\\
+\vspace{2mm}
+\noindent {\textbf{Notes (after Study 1):}}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[6pt]
+Study 2 (10:45–12:15) — Focus: Systems / practice problems\\
+\vspace{2mm}
+\noindent {\textbf{Notes (after Study 2):}}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[6pt]
+Study 3 (13:00–14:30) — Focus: Mixed algebra practice\\
+\vspace{2mm}
+\noindent {\textbf{Notes (after Study 3):}}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[2pt]
+\rule{\linewidth}{0.5pt}\\[2pt]
+\rule{\linewidth}{0.5pt}
+\newpage
+
+% Weekly Tracker (example week Aug 02 - Aug 08)
+{\large \textbf{Week 1 Tracker: Aug 02 — Aug 08}}\\[6pt]
+\noindent {\textbf{Weekly goals:}} Complete all lessons; 30 practice questions/day; 20 minutes flashcards/day.\\[6pt]
+\noindent {\textbf{Score Log (Practice tests / weekly checks):}}\\
+\begin{tabular}{|p{40mm}|p{25mm}|p{25mm}|p{25mm}|}
+\hline
+Date & Test/Quiz & Score & Notes \\
+\hline
+Aug 02 & & & \\
+\hline
+Aug 03 & & & \\
+\hline
+Aug 04 & & & \\
+\hline
+Aug 05 & & & \\
+\hline
+Aug 06 & & & \\
+\hline
+Aug 07 & & & \\
+\hline
+Aug 08 & & & \\
+\hline
+\end{tabular}
+
+\vspace{8mm}
+\noindent {\textbf{Habit Tracker (sleep/water/exercise/study streaks):}}\\[4pt]
+% Minimal grid for habit tracker (7 days)
+\begin{tabular}{|l|c|c|c|c|c|c|c|}
+\hline
+Habit & Mon & Tue & Wed & Thu & Fri & Sat & Sun \\
+\hline
+Sleep (\# hrs) & & & & & & & \\
+\hline
+Water (8x) & & & & & & & \\
+\hline
+Exercise & & & & & & & \\
+\hline
+Study (mins) & & & & & & & \\
+\hline
+\end{tabular}
+
+\end{document}

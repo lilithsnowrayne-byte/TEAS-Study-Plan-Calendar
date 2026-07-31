@@ -1,0 +1,62 @@
+{
+  "2026-08-02": {
+    "focus": "Math: Fractions, decimals, percentages",
+    "resources": [
+      {"name":"Khan Academy - Fractions","url":"https://www.khanacademy.org/math/arithmetic/fraction-arithmetic"},
+      {"name":"Khan Academy - Decimals","url":"https://www.khanacademy.org/math/arithmetic/decimals"},
+      {"name":"Khan Academy - Percentages","url":"https://www.khanacademy.org/math/pre-algebra/percent-decimals"}
+    ],
+    "lessons": [
+      {"title":"Understanding fractions review","url":"https://www.khanacademy.org/math/arithmetic/fraction-arithmetic#intro-to-fractions"},
+      {"title":"Adding and subtracting fractions","url":"https://www.khanacademy.org/math/arithmetic/fraction-arithmetic#add-sub-fractions"},
+      {"title":"Decimals place value and operations","url":"https://www.khanacademy.org/math/arithmetic/decimals"}
+    ]
+  },
+  "2026-08-03": {
+    "focus": "Math: Algebra & equations",
+    "resources": [
+      {"name":"Khan Academy - Linear equations","url":"https://www.khanacademy.org/math/algebra/one-variable-linear-equations"},
+      {"name":"Khan Academy - Systems of equations","url":"https://www.khanacademy.org/math/algebra/systems"}
+    ],
+    "lessons": [
+      {"title":"Solving one-step and two-step equations","url":"https://www.khanacademy.org/math/algebra/one-variable-linear-equations"},
+      {"title":"Practice: linear equations","url":"https://www.khanacademy.org/math/algebra/one-variable-linear-equations#practice"}
+    ]
+  },
+  "2026-08-04": {
+    "focus": "Reading: Main idea & inference",
+    "resources": [
+      {"name":"Union Test Prep - Reading","url":"https://uniontestprep.com"},
+      {"name":"Quizlet - Reading practice","url":"https://quizlet.com"}
+    ],
+    "lessons": [
+      {"title":"Main idea practice set","url":"https://uniontestprep.com/reading/main-idea"},
+      {"title":"Inference questions drill","url":"https://quizlet.com/subject/inference-questions"}
+    ]
+  },
+  "2026-08-05": {
+    "focus": "Anatomy",
+    "resources": [
+      {"name":"OpenStax Anatomy & Physiology","url":"https://openstax.org/details/books/anatomy-and-physiology"},
+      {"name":"Crash Course Anatomy & Physiology","url":"https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDhtQ1Q7fZ4dSWA9S"}
+    ],
+    "lessons": [
+      {"title":"Body organization & anatomical terminology","url":"https://openstax.org/books/anatomy-and-physiology/pages/1-introduction"},
+      {"title":"Overview of major body systems","url":"https://www.khanacademy.org/science/health-and-medicine"}
+    ],
+    "appointments": [
+      {"title":"Doctor appointment","time":"08:00"}
+    ]
+  },
+  "2026-08-06": {
+    "focus": "Science: Body systems",
+    "resources": [
+      {"name":"OpenStax - Anatomy","url":"https://openstax.org/details/books/anatomy-and-physiology"},
+      {"name":"Crash Course - Anatomy","url":"https://www.youtube.com/playlist?list=PL8dPuuaLjXtN0ge7yDhtQ1Q7fZ4dSWA9S"}
+    ],
+    "lessons": [
+      {"title":"Cardiovascular system overview","url":"https://www.khanacademy.org/science/health-and-medicine/circulatory-system"},
+      {"title":"Respiratory system basics","url":"https://www.khanacademy.org/science/health-and-medicine/respiratory-system"}
+    ]
+  }
+}
