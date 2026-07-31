@@ -1,0 +1,726 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TEAS Planner Reminders//EN
+NAME:reminders.ics
+X-WR-CALNAME:reminders.ics
+BEGIN:VEVENT
+UID:7a556b43-f27d-431d-b998-af3e3f806828
+DTSTAMP:20260731T173909
+DTSTART:20260802T103000
+DTEND:20260802T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:cc27e186-899d-4b73-8a72-cccc6967fdad
+DTSTAMP:20260731T173909
+DTSTART:20260802T143000
+DTEND:20260802T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:7bb36f62-2933-4de9-a2cd-37c67649693e
+DTSTAMP:20260731T173909
+DTSTART:20260802T163000
+DTEND:20260802T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:19e62fee-ee77-48cb-9ce7-625e87ae8019
+DTSTAMP:20260731T173909
+DTSTART:20260803T103000
+DTEND:20260803T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:fdce2cdf-71c1-4db3-bbc1-7f12e6a8812e
+DTSTAMP:20260731T173909
+DTSTART:20260803T143000
+DTEND:20260803T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:18e0ee50-ddc3-4f6f-8a0b-36189f7838c3
+DTSTAMP:20260731T173909
+DTSTART:20260803T163000
+DTEND:20260803T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:0898b8e4-0bbe-456f-96b2-74bbddfaff87
+DTSTAMP:20260731T173909
+DTSTART:20260804T103000
+DTEND:20260804T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:cc03f44b-f68c-470c-9735-b7d6e56142d9
+DTSTAMP:20260731T173909
+DTSTART:20260804T143000
+DTEND:20260804T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:478a28b1-e4e5-442c-9bf5-e221e1509896
+DTSTAMP:20260731T173909
+DTSTART:20260804T163000
+DTEND:20260804T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:3b7a901c-b629-4a1f-b6af-5f0e223f14f2
+DTSTAMP:20260731T173909
+DTSTART:20260805T103000
+DTEND:20260805T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a2c8277-5f11-4fb6-81d1-c7ef5bb9dfb8
+DTSTAMP:20260731T173909
+DTSTART:20260805T143000
+DTEND:20260805T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:95e91183-c26b-447a-947d-18a3b5475668
+DTSTAMP:20260731T173909
+DTSTART:20260805T163000
+DTEND:20260805T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:0f4bb3d0-ed0d-48ed-98b2-c84537102636
+DTSTAMP:20260731T173909
+DTSTART:20260806T103000
+DTEND:20260806T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:b9146ac9-4f85-4ca1-a480-e4b3510c61d7
+DTSTAMP:20260731T173909
+DTSTART:20260806T143000
+DTEND:20260806T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:da8c4418-04db-4e04-9c56-5cfbd475e982
+DTSTAMP:20260731T173909
+DTSTART:20260806T163000
+DTEND:20260806T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:864afe6b-a5e6-43c7-a6b5-c75afaafb263
+DTSTAMP:20260731T173909
+DTSTART:20260807T103000
+DTEND:20260807T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:61c7e400-87a0-4771-9ba0-226d342ceabb
+DTSTAMP:20260731T173909
+DTSTART:20260807T143000
+DTEND:20260807T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:926be784-ebe0-4d37-9103-99031fd8143f
+DTSTAMP:20260731T173909
+DTSTART:20260807T163000
+DTEND:20260807T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:fadff98a-239d-42a0-8414-3126307de0a8
+DTSTAMP:20260731T173909
+DTSTART:20260808T103000
+DTEND:20260808T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:2aef609f-5523-46c0-9a83-b6061d66ea97
+DTSTAMP:20260731T173909
+DTSTART:20260808T143000
+DTEND:20260808T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:d290b6e1-2bbb-47a9-84a0-c8fe53315336
+DTSTAMP:20260731T173909
+DTSTART:20260808T163000
+DTEND:20260808T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:f2b96ca9-aa49-436f-9a4b-683b23aff40c
+DTSTAMP:20260731T173909
+DTSTART:20260809T103000
+DTEND:20260809T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:327b917c-6594-42d2-8637-c0509436a647
+DTSTAMP:20260731T173909
+DTSTART:20260809T143000
+DTEND:20260809T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:c0382a29-a77e-456a-bc0a-16274ebf172e
+DTSTAMP:20260731T173909
+DTSTART:20260809T163000
+DTEND:20260809T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:de6f0b6a-bc35-4874-9929-847ee15eeee3
+DTSTAMP:20260731T173909
+DTSTART:20260810T103000
+DTEND:20260810T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:430ed366-15ab-46fc-88b4-4424bb1bb793
+DTSTAMP:20260731T173909
+DTSTART:20260810T143000
+DTEND:20260810T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:60a30848-d73a-4549-8396-1ba0d551d2bf
+DTSTAMP:20260731T173909
+DTSTART:20260810T163000
+DTEND:20260810T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:575cefe2-1691-4bee-aab1-c969b3af131d
+DTSTAMP:20260731T173909
+DTSTART:20260811T103000
+DTEND:20260811T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:b94bf36b-f56e-413c-9169-bb05b07639ca
+DTSTAMP:20260731T173909
+DTSTART:20260811T143000
+DTEND:20260811T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:1470e303-b2a4-4c85-b141-6d67f81ef0a0
+DTSTAMP:20260731T173909
+DTSTART:20260811T163000
+DTEND:20260811T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:656790c2-a8dc-442c-95f8-e5ddbec59f15
+DTSTAMP:20260731T173909
+DTSTART:20260812T103000
+DTEND:20260812T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:80f7c635-d80e-4b22-828c-cc6ce8c4fecf
+DTSTAMP:20260731T173909
+DTSTART:20260812T143000
+DTEND:20260812T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:14ea2e9e-7576-44f8-883c-4f4e3cfd46b7
+DTSTAMP:20260731T173909
+DTSTART:20260812T163000
+DTEND:20260812T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:bf5226a8-457a-4f57-85ed-0a3dd7ef6c20
+DTSTAMP:20260731T173909
+DTSTART:20260813T103000
+DTEND:20260813T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:ce800f74-6f0b-413b-8f0c-3e5c319449a3
+DTSTAMP:20260731T173909
+DTSTART:20260813T143000
+DTEND:20260813T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:3bb4c8d7-8b61-40ba-b77e-5db9e8af62d3
+DTSTAMP:20260731T173909
+DTSTART:20260813T163000
+DTEND:20260813T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:64d3119b-db9e-4789-afc7-5739501b69ce
+DTSTAMP:20260731T173909
+DTSTART:20260814T103000
+DTEND:20260814T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc72b2ab-7a29-4318-90dc-5e062ac5d03e
+DTSTAMP:20260731T173909
+DTSTART:20260814T143000
+DTEND:20260814T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:1eb01201-2825-43c7-9dfb-8d6a70c4bb80
+DTSTAMP:20260731T173909
+DTSTART:20260814T163000
+DTEND:20260814T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:b85cdf2d-6e41-4bb2-812f-0e505f1f769a
+DTSTAMP:20260731T173909
+DTSTART:20260815T103000
+DTEND:20260815T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:2897afc0-38e8-47ce-b4de-05e3d4d8bd44
+DTSTAMP:20260731T173909
+DTSTART:20260815T143000
+DTEND:20260815T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:10897388-8af6-4ef7-a484-169f173ccd94
+DTSTAMP:20260731T173909
+DTSTART:20260815T163000
+DTEND:20260815T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:c94e4028-6e8b-4a84-8334-d0b7dfe2b158
+DTSTAMP:20260731T173909
+DTSTART:20260816T103000
+DTEND:20260816T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:de3c74dc-91fd-49e2-bebb-87ebcd8cad00
+DTSTAMP:20260731T173909
+DTSTART:20260816T143000
+DTEND:20260816T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:05a5d268-8047-4e73-843f-d961cdc59d73
+DTSTAMP:20260731T173909
+DTSTART:20260816T163000
+DTEND:20260816T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:2c897866-8e7c-4bc3-902e-016b6b7aa92d
+DTSTAMP:20260731T173909
+DTSTART:20260817T103000
+DTEND:20260817T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:2982764e-613a-4a0e-8170-21c4d834f5c1
+DTSTAMP:20260731T173909
+DTSTART:20260817T143000
+DTEND:20260817T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:c65250e8-e777-482c-84f9-d29cf2efbf17
+DTSTAMP:20260731T173909
+DTSTART:20260817T163000
+DTEND:20260817T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:24d64fe7-10c5-4b08-a7a1-79dae61f49ef
+DTSTAMP:20260731T173909
+DTSTART:20260818T103000
+DTEND:20260818T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:cfa384ab-e707-4c60-8347-161b379a7b43
+DTSTAMP:20260731T173909
+DTSTART:20260818T143000
+DTEND:20260818T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:14bf337b-f94b-49cb-99c0-2b585f29b97e
+DTSTAMP:20260731T173909
+DTSTART:20260818T163000
+DTEND:20260818T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:0484950b-d011-4b01-9653-a00053d95a20
+DTSTAMP:20260731T173909
+DTSTART:20260819T103000
+DTEND:20260819T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:4b133f40-06e1-45d6-8b8d-97604f7cd59b
+DTSTAMP:20260731T173909
+DTSTART:20260819T143000
+DTEND:20260819T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:357a5a55-12ed-463a-a98d-2355a6d12e4e
+DTSTAMP:20260731T173909
+DTSTART:20260819T163000
+DTEND:20260819T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:c14d805d-f61b-4c64-8dcf-aee79647b883
+DTSTAMP:20260731T173909
+DTSTART:20260820T103000
+DTEND:20260820T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:ffafe7b0-7484-4964-9ac8-67a5219b547a
+DTSTAMP:20260731T173909
+DTSTART:20260820T143000
+DTEND:20260820T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:2f987b87-c0c0-4b1a-8787-48207b2f45ad
+DTSTAMP:20260731T173909
+DTSTART:20260820T163000
+DTEND:20260820T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:7b570e1d-734b-4a4c-a2a3-b12da4f17602
+DTSTAMP:20260731T173909
+DTSTART:20260821T103000
+DTEND:20260821T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:48b056fe-b580-48e0-a57e-d432534e4c73
+DTSTAMP:20260731T173909
+DTSTART:20260821T143000
+DTEND:20260821T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:b71bd08f-6e5a-4611-a8a7-9457ccc43a36
+DTSTAMP:20260731T173909
+DTSTART:20260821T163000
+DTEND:20260821T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:a2c925f6-f46b-4009-ad98-a0a52da866d1
+DTSTAMP:20260731T173909
+DTSTART:20260822T103000
+DTEND:20260822T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:59ea224f-5a83-4964-be03-2ba2e7575dc1
+DTSTAMP:20260731T173909
+DTSTART:20260822T143000
+DTEND:20260822T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:f38743cf-c9a5-402a-b046-d39018bdd9c1
+DTSTAMP:20260731T173909
+DTSTART:20260822T163000
+DTEND:20260822T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:e3edf0a8-adc3-423b-b56b-78717e2b9bc8
+DTSTAMP:20260731T173909
+DTSTART:20260823T103000
+DTEND:20260823T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:25efbd95-b141-4a59-9fd9-775792b4d0cd
+DTSTAMP:20260731T173909
+DTSTART:20260823T143000
+DTEND:20260823T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:6749f3d3-15a3-4048-8b35-4fcc73b8f659
+DTSTAMP:20260731T173909
+DTSTART:20260823T163000
+DTEND:20260823T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:784c21ae-f12e-4546-aa19-6a9314aa5c79
+DTSTAMP:20260731T173909
+DTSTART:20260824T103000
+DTEND:20260824T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:f15018e7-790a-4d39-8e1d-27ec8dd67ca6
+DTSTAMP:20260731T173909
+DTSTART:20260824T143000
+DTEND:20260824T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc6f10b2-7b83-409a-be76-515a9a10676a
+DTSTAMP:20260731T173909
+DTSTART:20260824T163000
+DTEND:20260824T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:9b1d8265-f8d2-46ea-b2b4-14f8315518d8
+DTSTAMP:20260731T173909
+DTSTART:20260825T103000
+DTEND:20260825T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:416d7d61-f483-47be-9e06-217635bf8bbb
+DTSTAMP:20260731T173909
+DTSTART:20260825T143000
+DTEND:20260825T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f2c76e1-b022-4d21-924f-12236f13eda3
+DTSTAMP:20260731T173909
+DTSTART:20260825T163000
+DTEND:20260825T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:30a84f3e-433f-43bc-b983-253eee511676
+DTSTAMP:20260731T173909
+DTSTART:20260826T103000
+DTEND:20260826T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:d0974a52-bdf8-4991-a18c-aa5786061130
+DTSTAMP:20260731T173909
+DTSTART:20260826T143000
+DTEND:20260826T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:24b46966-ff52-4f52-a8b0-2b88e629d61c
+DTSTAMP:20260731T173909
+DTSTART:20260826T163000
+DTEND:20260826T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:e9655f7f-fee4-4476-a799-d2ee77271c67
+DTSTAMP:20260731T173909
+DTSTART:20260827T103000
+DTEND:20260827T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:ba9a4e35-c5d8-4e94-99c5-6c61ab22fd4e
+DTSTAMP:20260731T173909
+DTSTART:20260827T143000
+DTEND:20260827T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:25ad2e6a-0746-4ca9-853a-cf5a026d658e
+DTSTAMP:20260731T173909
+DTSTART:20260827T163000
+DTEND:20260827T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:169613f6-84d5-4cfa-99d9-badf3dc7e020
+DTSTAMP:20260731T173909
+DTSTART:20260828T103000
+DTEND:20260828T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:3d7a9ec7-0b3e-4ba5-a9a8-1b7cdd63172d
+DTSTAMP:20260731T173909
+DTSTART:20260828T143000
+DTEND:20260828T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:818d988a-74bc-4e84-aeda-effedd84444d
+DTSTAMP:20260731T173909
+DTSTART:20260828T163000
+DTEND:20260828T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:a2ae24dd-910e-4f7e-ba02-40a16836807d
+DTSTAMP:20260731T173909
+DTSTART:20260829T103000
+DTEND:20260829T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:245806c5-a005-4978-ba15-af37223c2e2d
+DTSTAMP:20260731T173909
+DTSTART:20260829T143000
+DTEND:20260829T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:de7bc6f6-b0e9-41cf-81f2-dd637a4b1214
+DTSTAMP:20260731T173909
+DTSTART:20260829T163000
+DTEND:20260829T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:cd405017-1d5f-411a-8655-12d3b82f40de
+DTSTAMP:20260731T173909
+DTSTART:20260830T103000
+DTEND:20260830T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:d9a94e3d-538a-4c32-ab7e-367772ab9396
+DTSTAMP:20260731T173909
+DTSTART:20260830T143000
+DTEND:20260830T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:fd25270e-d437-4876-8c77-48f112b2ae68
+DTSTAMP:20260731T173909
+DTSTART:20260830T163000
+DTEND:20260830T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:15418add-b3f4-49c7-ad98-bd89aad2d5d2
+DTSTAMP:20260731T173909
+DTSTART:20260831T103000
+DTEND:20260831T103500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:661706ff-0234-4f71-923b-cf5180a24ce7
+DTSTAMP:20260731T173909
+DTSTART:20260831T143000
+DTEND:20260831T143500
+SUMMARY:Hydrate & Stretch
+DESCRIPTION:Reminder: Drink water and stretch during your break.
+END:VEVENT
+BEGIN:VEVENT
+UID:fd3e8cf5-f998-40e4-9bcb-d62fba100a33
+DTSTAMP:20260731T173909
+DTSTART:20260831T163000
+DTEND:20260831T164500
+SUMMARY:Daily completion checklist
+DESCRIPTION:Daily Completion Checklist\n☐ Complete lessons\n☐ 30 practice questions\n☐ Review mistakes\n☐ 20 minutes flashcards\n☐ Drink water and stretch during breaks
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,966 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TEAS Planner Studies//EN
+NAME:studies.ics
+X-WR-CALNAME:studies.ics
+BEGIN:VEVENT
+UID:1f201ae1-706a-4cb5-9239-011bf06728c9
+DTSTAMP:20260731T173909
+DTSTART:20260802T090000
+DTEND:20260802T103000
+SUMMARY:Study 1 — Math: Fractions\, decimals\, percentages
+DESCRIPTION:Focus: Math: Fractions\, decimals\, percentages\nResources: Khan Academy\; Organic Chemistry Tutor\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:6bb78cb1-851e-4512-a096-4d588dc5b6a4
+DTSTAMP:20260731T173909
+DTSTART:20260802T104500
+DTEND:20260802T121500
+SUMMARY:Study 2 — Math: Fractions\, decimals\, percentages
+DESCRIPTION:Focus: Math: Fractions\, decimals\, percentages\nResources: Khan Academy\; Organic Chemistry Tutor\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:8b54d552-a8e6-4dd9-9dae-bfc00a1a62d7
+DTSTAMP:20260731T173909
+DTSTART:20260802T130000
+DTEND:20260802T143000
+SUMMARY:Study 3 — Math: Fractions\, decimals\, percentages
+DESCRIPTION:Focus: Math: Fractions\, decimals\, percentages\nResources: Khan Academy\; Organic Chemistry Tutor\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:308d9ecd-5181-4722-b971-bd7891a78762
+DTSTAMP:20260731T173909
+DTSTART:20260802T144500
+DTEND:20260802T154500
+SUMMARY:Flashcards / Review — Math: Fractions\, decimals\, percentages
+DESCRIPTION:Focus: Math: Fractions\, decimals\, percentages\nResources: Khan Academy\; Organic Chemistry Tutor\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:f6738bda-2491-439e-bbc7-23299e87cb32
+DTSTAMP:20260731T173909
+DTSTART:20260803T090000
+DTEND:20260803T103000
+SUMMARY:Study 1 — Math: Algebra & equations
+DESCRIPTION:Focus: Math: Algebra & equations\nResources: Khan Academy\; Organic Chemistry Tutor\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:92483ce6-cbb9-4925-8c9c-b81408bb2328
+DTSTAMP:20260731T173909
+DTSTART:20260803T104500
+DTEND:20260803T121500
+SUMMARY:Study 2 — Math: Algebra & equations
+DESCRIPTION:Focus: Math: Algebra & equations\nResources: Khan Academy\; Organic Chemistry Tutor\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:c31d700f-3996-4465-abfe-004fc16fde4a
+DTSTAMP:20260731T173909
+DTSTART:20260803T130000
+DTEND:20260803T143000
+SUMMARY:Study 3 — Math: Algebra & equations
+DESCRIPTION:Focus: Math: Algebra & equations\nResources: Khan Academy\; Organic Chemistry Tutor\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:8f76e5c7-642d-46af-a32b-3b6ae97e7fa0
+DTSTAMP:20260731T173909
+DTSTART:20260803T144500
+DTEND:20260803T154500
+SUMMARY:Flashcards / Review — Math: Algebra & equations
+DESCRIPTION:Focus: Math: Algebra & equations\nResources: Khan Academy\; Organic Chemistry Tutor\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:bf928a2e-c8cb-49d7-a220-baf9575eab66
+DTSTAMP:20260731T173909
+DTSTART:20260804T090000
+DTEND:20260804T103000
+SUMMARY:Study 1 — Reading: Main idea & inference
+DESCRIPTION:Focus: Reading: Main idea & inference\nResources: Union Test Prep\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:8a9a4c95-28d7-4bad-81e4-32ffe5b8427d
+DTSTAMP:20260731T173909
+DTSTART:20260804T104500
+DTEND:20260804T121500
+SUMMARY:Study 2 — Reading: Main idea & inference
+DESCRIPTION:Focus: Reading: Main idea & inference\nResources: Union Test Prep\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:f4147567-67a2-4f94-8f3d-73ac27c6f76f
+DTSTAMP:20260731T173909
+DTSTART:20260804T130000
+DTEND:20260804T143000
+SUMMARY:Study 3 — Reading: Main idea & inference
+DESCRIPTION:Focus: Reading: Main idea & inference\nResources: Union Test Prep\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:f7fa1c36-3972-4f87-8f4f-4bac4208e1a3
+DTSTAMP:20260731T173909
+DTSTART:20260804T144500
+DTEND:20260804T154500
+SUMMARY:Flashcards / Review — Reading: Main idea & inference
+DESCRIPTION:Focus: Reading: Main idea & inference\nResources: Union Test Prep\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:bdd5fea0-4d6d-4aec-a737-6d493b287349
+DTSTAMP:20260731T173909
+DTSTART:20260805T090000
+DTEND:20260805T103000
+SUMMARY:Study 1 — Anatomy (Doctor appointment 8:00)
+DESCRIPTION:Focus: Anatomy (Doctor appointment 8:00)\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:f83940d4-dbbf-4884-909b-80e49489d406
+DTSTAMP:20260731T173909
+DTSTART:20260805T104500
+DTEND:20260805T121500
+SUMMARY:Study 2 — Anatomy (Doctor appointment 8:00)
+DESCRIPTION:Focus: Anatomy (Doctor appointment 8:00)\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:f46652d7-58fe-4c83-804e-ee9da2f26338
+DTSTAMP:20260731T173909
+DTSTART:20260805T130000
+DTEND:20260805T143000
+SUMMARY:Study 3 — Anatomy (Doctor appointment 8:00)
+DESCRIPTION:Focus: Anatomy (Doctor appointment 8:00)\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:28dc4a9e-52fc-47d7-a029-5462be2d38c9
+DTSTAMP:20260731T173909
+DTSTART:20260805T144500
+DTEND:20260805T154500
+SUMMARY:Flashcards / Review — Anatomy (Doctor appointment 8:00)
+DESCRIPTION:Focus: Anatomy (Doctor appointment 8:00)\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:e03970e9-e3f7-431b-8999-5433e7c31c4d
+DTSTAMP:20260731T173909
+DTSTART:20260806T090000
+DTEND:20260806T103000
+SUMMARY:Study 1 — Science: Body systems
+DESCRIPTION:Focus: Science: Body systems\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:22202b33-5df3-4cd4-ad34-88c73e81c13a
+DTSTAMP:20260731T173909
+DTSTART:20260806T104500
+DTEND:20260806T121500
+SUMMARY:Study 2 — Science: Body systems
+DESCRIPTION:Focus: Science: Body systems\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:aa8b0f37-0d98-418b-89a3-61c5ff605ab3
+DTSTAMP:20260731T173909
+DTSTART:20260806T130000
+DTEND:20260806T143000
+SUMMARY:Study 3 — Science: Body systems
+DESCRIPTION:Focus: Science: Body systems\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:f3bfda55-838d-4646-a8f1-cecf504b88ad
+DTSTAMP:20260731T173909
+DTSTART:20260806T144500
+DTEND:20260806T154500
+SUMMARY:Flashcards / Review — Science: Body systems
+DESCRIPTION:Focus: Science: Body systems\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:551a43e5-0ba3-435d-b96b-bc449bf9deb3
+DTSTAMP:20260731T173909
+DTSTART:20260807T090000
+DTEND:20260807T103000
+SUMMARY:Study 1 — English
+DESCRIPTION:Focus: English\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:75a2b850-9047-4eaf-902f-97c8052b27fc
+DTSTAMP:20260731T173909
+DTSTART:20260807T104500
+DTEND:20260807T121500
+SUMMARY:Study 2 — English
+DESCRIPTION:Focus: English\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:37e507de-b28a-4f43-8cc3-36188d879c0d
+DTSTAMP:20260731T173909
+DTSTART:20260807T130000
+DTEND:20260807T143000
+SUMMARY:Study 3 — English
+DESCRIPTION:Focus: English\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:b4fe826d-bf8d-4b12-8009-6031e4fea41e
+DTSTAMP:20260731T173909
+DTSTART:20260807T144500
+DTEND:20260807T154500
+SUMMARY:Flashcards / Review — English
+DESCRIPTION:Focus: English\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:b46b3d44-ec3d-4f56-a789-eca63ecc3aaa
+DTSTAMP:20260731T173909
+DTSTART:20260808T090000
+DTEND:20260808T103000
+SUMMARY:Study 1 — Weekly practice test
+DESCRIPTION:Focus: Weekly practice test\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:683ffba9-2f8c-4f48-87a7-3d52b701590e
+DTSTAMP:20260731T173909
+DTSTART:20260808T104500
+DTEND:20260808T121500
+SUMMARY:Study 2 — Weekly practice test
+DESCRIPTION:Focus: Weekly practice test\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:797238ab-7694-4092-a08f-70576d686c5c
+DTSTAMP:20260731T173909
+DTSTART:20260808T130000
+DTEND:20260808T143000
+SUMMARY:Study 3 — Weekly practice test
+DESCRIPTION:Focus: Weekly practice test\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:94b8da34-0917-4282-af17-ddf72859ecd5
+DTSTAMP:20260731T173909
+DTSTART:20260808T144500
+DTEND:20260808T154500
+SUMMARY:Flashcards / Review — Weekly practice test
+DESCRIPTION:Focus: Weekly practice test\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:7b0c52a1-d979-44c4-8919-c2971040c4b8
+DTSTAMP:20260731T173909
+DTSTART:20260809T090000
+DTEND:20260809T103000
+SUMMARY:Study 1 — Science: Nervous/Endocrine
+DESCRIPTION:Focus: Science: Nervous/Endocrine\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:97c708af-ee69-4b2c-929e-3e3c46224bce
+DTSTAMP:20260731T173909
+DTSTART:20260809T104500
+DTEND:20260809T121500
+SUMMARY:Study 2 — Science: Nervous/Endocrine
+DESCRIPTION:Focus: Science: Nervous/Endocrine\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:6f4cf7a5-996c-4b32-9e07-aad8b8284cc7
+DTSTAMP:20260731T173909
+DTSTART:20260809T130000
+DTEND:20260809T143000
+SUMMARY:Study 3 — Science: Nervous/Endocrine
+DESCRIPTION:Focus: Science: Nervous/Endocrine\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:70a7ff29-a7cc-4641-a991-9d0da7fcc37d
+DTSTAMP:20260731T173909
+DTSTART:20260809T144500
+DTEND:20260809T154500
+SUMMARY:Flashcards / Review — Science: Nervous/Endocrine
+DESCRIPTION:Focus: Science: Nervous/Endocrine\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:5c9952b2-82ae-4839-9e81-9c8a26f81300
+DTSTAMP:20260731T173909
+DTSTART:20260810T090000
+DTEND:20260810T103000
+SUMMARY:Study 1 — Science: Reproductive
+DESCRIPTION:Focus: Science: Reproductive\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:393deaa7-8843-423a-a33d-b18a96a0c9ca
+DTSTAMP:20260731T173909
+DTSTART:20260810T104500
+DTEND:20260810T121500
+SUMMARY:Study 2 — Science: Reproductive
+DESCRIPTION:Focus: Science: Reproductive\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:f4811581-d572-48b6-b5a2-3687352bb2a5
+DTSTAMP:20260731T173909
+DTSTART:20260810T130000
+DTEND:20260810T143000
+SUMMARY:Study 3 — Science: Reproductive
+DESCRIPTION:Focus: Science: Reproductive\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:318ac8a4-44ca-4fcc-8983-dace6fb69476
+DTSTAMP:20260731T173909
+DTSTART:20260810T144500
+DTEND:20260810T154500
+SUMMARY:Flashcards / Review — Science: Reproductive
+DESCRIPTION:Focus: Science: Reproductive\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:3465a0c1-9b85-46a2-bc4d-607160beea79
+DTSTAMP:20260731T173909
+DTSTART:20260811T090000
+DTEND:20260811T103000
+SUMMARY:Study 1 — Science: Cell biology
+DESCRIPTION:Focus: Science: Cell biology\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:64d60cb0-1f55-4d60-a3e5-8a2b17aee8ad
+DTSTAMP:20260731T173909
+DTSTART:20260811T104500
+DTEND:20260811T121500
+SUMMARY:Study 2 — Science: Cell biology
+DESCRIPTION:Focus: Science: Cell biology\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:8c6cf4a9-cc1d-4feb-a911-9b97f064b949
+DTSTAMP:20260731T173909
+DTSTART:20260811T130000
+DTEND:20260811T143000
+SUMMARY:Study 3 — Science: Cell biology
+DESCRIPTION:Focus: Science: Cell biology\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:87d7d9ca-b8ad-43be-a440-03e71e89f7b8
+DTSTAMP:20260731T173909
+DTSTART:20260811T144500
+DTEND:20260811T154500
+SUMMARY:Flashcards / Review — Science: Cell biology
+DESCRIPTION:Focus: Science: Cell biology\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:879adde1-c3fd-4a9b-9459-46c99b6e8903
+DTSTAMP:20260731T173909
+DTSTART:20260812T090000
+DTEND:20260812T103000
+SUMMARY:Study 1 — Science: Genetics
+DESCRIPTION:Focus: Science: Genetics\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:360742b6-f149-41cd-89b2-dd782168a2ee
+DTSTAMP:20260731T173909
+DTSTART:20260812T104500
+DTEND:20260812T121500
+SUMMARY:Study 2 — Science: Genetics
+DESCRIPTION:Focus: Science: Genetics\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:32eae628-c8c3-4253-becc-d81baeba61f5
+DTSTAMP:20260731T173909
+DTSTART:20260812T130000
+DTEND:20260812T143000
+SUMMARY:Study 3 — Science: Genetics
+DESCRIPTION:Focus: Science: Genetics\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:00fe61da-7c5b-48d7-9646-cc9fa3d43efb
+DTSTAMP:20260731T173909
+DTSTART:20260812T144500
+DTEND:20260812T154500
+SUMMARY:Flashcards / Review — Science: Genetics
+DESCRIPTION:Focus: Science: Genetics\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:0da67dff-b9d7-4dee-ab4b-358a76190880
+DTSTAMP:20260731T173909
+DTSTART:20260813T090000
+DTEND:20260813T103000
+SUMMARY:Study 1 — Science: Chemistry
+DESCRIPTION:Focus: Science: Chemistry\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:55ed9ccb-1075-4601-b021-86323b0cf0e4
+DTSTAMP:20260731T173909
+DTSTART:20260813T104500
+DTEND:20260813T121500
+SUMMARY:Study 2 — Science: Chemistry
+DESCRIPTION:Focus: Science: Chemistry\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:f01cfd61-0a68-4a52-bf60-c95cc8de0585
+DTSTAMP:20260731T173909
+DTSTART:20260813T130000
+DTEND:20260813T143000
+SUMMARY:Study 3 — Science: Chemistry
+DESCRIPTION:Focus: Science: Chemistry\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:c4e627b9-1740-48ad-a653-f864c7788cf1
+DTSTAMP:20260731T173909
+DTSTART:20260813T144500
+DTEND:20260813T154500
+SUMMARY:Flashcards / Review — Science: Chemistry
+DESCRIPTION:Focus: Science: Chemistry\nResources: OpenStax\; Crash Course\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:6a82836d-c000-49b0-8cb3-f95d13fe9c32
+DTSTAMP:20260731T173909
+DTSTART:20260814T090000
+DTEND:20260814T103000
+SUMMARY:Study 1 — Chemistry
+DESCRIPTION:Focus: Chemistry\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:1b63d657-b1d5-4c46-8c91-4b82f9102a23
+DTSTAMP:20260731T173909
+DTSTART:20260814T104500
+DTEND:20260814T121500
+SUMMARY:Study 2 — Chemistry
+DESCRIPTION:Focus: Chemistry\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:ebad05dd-c627-486b-9fb9-f103bf4f02a5
+DTSTAMP:20260731T173909
+DTSTART:20260814T130000
+DTEND:20260814T143000
+SUMMARY:Study 3 — Chemistry
+DESCRIPTION:Focus: Chemistry\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:6b334140-5e2b-4b60-a28a-e09470736d76
+DTSTAMP:20260731T173909
+DTSTART:20260814T144500
+DTEND:20260814T154500
+SUMMARY:Flashcards / Review — Chemistry
+DESCRIPTION:Focus: Chemistry\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:4c8bdfca-40d0-4363-8d6a-75e855f30b71
+DTSTAMP:20260731T173909
+DTSTART:20260815T090000
+DTEND:20260815T103000
+SUMMARY:Study 1 — Scientific reasoning
+DESCRIPTION:Focus: Scientific reasoning\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:b6223d29-f154-4ce4-a41a-9759bb849829
+DTSTAMP:20260731T173909
+DTSTART:20260815T104500
+DTEND:20260815T121500
+SUMMARY:Study 2 — Scientific reasoning
+DESCRIPTION:Focus: Scientific reasoning\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:6571dd08-99e1-4063-bfdd-cf358d8fe98f
+DTSTAMP:20260731T173909
+DTSTART:20260815T130000
+DTEND:20260815T143000
+SUMMARY:Study 3 — Scientific reasoning
+DESCRIPTION:Focus: Scientific reasoning\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:f0a04b91-6328-429c-936e-30defad0a551
+DTSTAMP:20260731T173909
+DTSTART:20260815T144500
+DTEND:20260815T154500
+SUMMARY:Flashcards / Review — Scientific reasoning
+DESCRIPTION:Focus: Scientific reasoning\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:e2315254-0600-4613-a8bd-562e92b14f87
+DTSTAMP:20260731T173909
+DTSTART:20260816T090000
+DTEND:20260816T103000
+SUMMARY:Study 1 — Reading: Tone
+DESCRIPTION:Focus: Reading: Tone\nResources: Union Test Prep\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:d0477c12-1dc5-427f-9bca-361ca38ac87a
+DTSTAMP:20260731T173909
+DTSTART:20260816T104500
+DTEND:20260816T121500
+SUMMARY:Study 2 — Reading: Tone
+DESCRIPTION:Focus: Reading: Tone\nResources: Union Test Prep\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:eadc228f-8e9b-4f9d-a801-efa468018948
+DTSTAMP:20260731T173909
+DTSTART:20260816T130000
+DTEND:20260816T143000
+SUMMARY:Study 3 — Reading: Tone
+DESCRIPTION:Focus: Reading: Tone\nResources: Union Test Prep\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:dec53e6e-d968-48a2-aa54-301a29d6dd68
+DTSTAMP:20260731T173909
+DTSTART:20260816T144500
+DTEND:20260816T154500
+SUMMARY:Flashcards / Review — Reading: Tone
+DESCRIPTION:Focus: Reading: Tone\nResources: Union Test Prep\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:c42ba290-17d4-4f62-afdd-b393e452448d
+DTSTAMP:20260731T173909
+DTSTART:20260817T090000
+DTEND:20260817T103000
+SUMMARY:Study 1 — Reading: Compare passages
+DESCRIPTION:Focus: Reading: Compare passages\nResources: Union Test Prep\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:a4aa27e6-248b-4fce-9145-175a07ad4fd9
+DTSTAMP:20260731T173909
+DTSTART:20260817T104500
+DTEND:20260817T121500
+SUMMARY:Study 2 — Reading: Compare passages
+DESCRIPTION:Focus: Reading: Compare passages\nResources: Union Test Prep\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:f39a540c-29d8-449c-885e-e15858f7082b
+DTSTAMP:20260731T173909
+DTSTART:20260817T130000
+DTEND:20260817T143000
+SUMMARY:Study 3 — Reading: Compare passages
+DESCRIPTION:Focus: Reading: Compare passages\nResources: Union Test Prep\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:d3766882-2cac-4b58-8c8f-5ca16ebaf4ef
+DTSTAMP:20260731T173909
+DTSTART:20260817T144500
+DTEND:20260817T154500
+SUMMARY:Flashcards / Review — Reading: Compare passages
+DESCRIPTION:Focus: Reading: Compare passages\nResources: Union Test Prep\; Quizlet\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:3d618066-84bb-4dda-8c86-4acea2ad2fb7
+DTSTAMP:20260731T173909
+DTSTART:20260818T090000
+DTEND:20260818T103000
+SUMMARY:Study 1 — English: Grammar
+DESCRIPTION:Focus: English: Grammar\nResources: Quizlet\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:9baed26e-7b38-42a6-9364-82d225370bde
+DTSTAMP:20260731T173909
+DTSTART:20260818T104500
+DTEND:20260818T121500
+SUMMARY:Study 2 — English: Grammar
+DESCRIPTION:Focus: English: Grammar\nResources: Quizlet\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:9af4e008-5963-4d97-9475-59ef93fdf908
+DTSTAMP:20260731T173909
+DTSTART:20260818T130000
+DTEND:20260818T143000
+SUMMARY:Study 3 — English: Grammar
+DESCRIPTION:Focus: English: Grammar\nResources: Quizlet\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:38cb3ff6-6467-4046-8ece-fd77e695c659
+DTSTAMP:20260731T173909
+DTSTART:20260818T144500
+DTEND:20260818T154500
+SUMMARY:Flashcards / Review — English: Grammar
+DESCRIPTION:Focus: English: Grammar\nResources: Quizlet\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:ef6c498a-24a9-4c4b-9da4-6957d82f7a08
+DTSTAMP:20260731T173909
+DTSTART:20260819T090000
+DTEND:20260819T103000
+SUMMARY:Study 1 — English: Punctuation
+DESCRIPTION:Focus: English: Punctuation\nResources: Quizlet\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:9548cd29-9fe6-4f7c-9399-d2c4689ac1c8
+DTSTAMP:20260731T173909
+DTSTART:20260819T104500
+DTEND:20260819T121500
+SUMMARY:Study 2 — English: Punctuation
+DESCRIPTION:Focus: English: Punctuation\nResources: Quizlet\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:83eced49-2d7f-4f47-b532-d9cb977a90ff
+DTSTAMP:20260731T173909
+DTSTART:20260819T130000
+DTEND:20260819T143000
+SUMMARY:Study 3 — English: Punctuation
+DESCRIPTION:Focus: English: Punctuation\nResources: Quizlet\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:379f7e87-4112-421c-b6aa-8f1fb92a0a2c
+DTSTAMP:20260731T173909
+DTSTART:20260819T144500
+DTEND:20260819T154500
+SUMMARY:Flashcards / Review — English: Punctuation
+DESCRIPTION:Focus: English: Punctuation\nResources: Quizlet\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:c985f05a-14e4-4c86-950f-c6786ea9070a
+DTSTAMP:20260731T173909
+DTSTART:20260820T090000
+DTEND:20260820T103000
+SUMMARY:Study 1 — English: Revision
+DESCRIPTION:Focus: English: Revision\nResources: Quizlet\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:78585adf-edde-41ca-a8a9-ab3ac4ab6339
+DTSTAMP:20260731T173909
+DTSTART:20260820T104500
+DTEND:20260820T121500
+SUMMARY:Study 2 — English: Revision
+DESCRIPTION:Focus: English: Revision\nResources: Quizlet\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:9861640a-2466-4a96-a992-76a10713b48e
+DTSTAMP:20260731T173909
+DTSTART:20260820T130000
+DTEND:20260820T143000
+SUMMARY:Study 3 — English: Revision
+DESCRIPTION:Focus: English: Revision\nResources: Quizlet\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:cb12340a-2905-42a1-aebc-1184ea9486fb
+DTSTAMP:20260731T173909
+DTSTART:20260820T144500
+DTEND:20260820T154500
+SUMMARY:Flashcards / Review — English: Revision
+DESCRIPTION:Focus: English: Revision\nResources: Quizlet\; Union Test Prep\n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:57902d70-ee65-4ba9-9fe7-0cb60d87a47f
+DTSTAMP:20260731T173909
+DTSTART:20260821T090000
+DTEND:20260821T103000
+SUMMARY:Study 1 — Vocabulary
+DESCRIPTION:Focus: Vocabulary\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:188bf815-e760-4f45-9a50-e0f7363ac048
+DTSTAMP:20260731T173909
+DTSTART:20260821T104500
+DTEND:20260821T121500
+SUMMARY:Study 2 — Vocabulary
+DESCRIPTION:Focus: Vocabulary\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:21581a49-de14-4fc1-b24a-7c985e8efafe
+DTSTAMP:20260731T173909
+DTSTART:20260821T130000
+DTEND:20260821T143000
+SUMMARY:Study 3 — Vocabulary
+DESCRIPTION:Focus: Vocabulary\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:ec29404d-5a45-4d25-a455-c0abd409ebd7
+DTSTAMP:20260731T173909
+DTSTART:20260821T144500
+DTEND:20260821T154500
+SUMMARY:Flashcards / Review — Vocabulary
+DESCRIPTION:Focus: Vocabulary\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:a25cd91e-50af-44f5-a448-4dc6c7c39463
+DTSTAMP:20260731T173909
+DTSTART:20260822T090000
+DTEND:20260822T103000
+SUMMARY:Study 1 — Mixed practice
+DESCRIPTION:Focus: Mixed practice\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:b37e98b3-023b-4dd9-80c4-90ddaac774cb
+DTSTAMP:20260731T173909
+DTSTART:20260822T104500
+DTEND:20260822T121500
+SUMMARY:Study 2 — Mixed practice
+DESCRIPTION:Focus: Mixed practice\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:c5d3cc75-3cfb-45ed-872b-6418b909a2fb
+DTSTAMP:20260731T173909
+DTSTART:20260822T130000
+DTEND:20260822T143000
+SUMMARY:Study 3 — Mixed practice
+DESCRIPTION:Focus: Mixed practice\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:7bab55ce-6e5f-4c10-95ed-283fce0ebcbc
+DTSTAMP:20260731T173909
+DTSTART:20260822T144500
+DTEND:20260822T154500
+SUMMARY:Flashcards / Review — Mixed practice
+DESCRIPTION:Focus: Mixed practice\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:b7d202b4-bc0f-47ac-b422-6f9141544ffc
+DTSTAMP:20260731T173909
+DTSTART:20260823T090000
+DTEND:20260823T103000
+SUMMARY:Study 1 — Practice Exam #1
+DESCRIPTION:Focus: Practice Exam #1\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:e291359a-7299-4424-a715-a3406ecd8ef0
+DTSTAMP:20260731T173909
+DTSTART:20260823T104500
+DTEND:20260823T121500
+SUMMARY:Study 2 — Practice Exam #1
+DESCRIPTION:Focus: Practice Exam #1\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:94280934-2f69-43c6-b649-3d80d8091f2c
+DTSTAMP:20260731T173909
+DTSTART:20260823T130000
+DTEND:20260823T143000
+SUMMARY:Study 3 — Practice Exam #1
+DESCRIPTION:Focus: Practice Exam #1\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:25edc370-4490-44c8-9d14-a039d86f4449
+DTSTAMP:20260731T173909
+DTSTART:20260823T144500
+DTEND:20260823T154500
+SUMMARY:Flashcards / Review — Practice Exam #1
+DESCRIPTION:Focus: Practice Exam #1\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:af5599f5-2c27-460f-9f39-5c16873d9938
+DTSTAMP:20260731T173909
+DTSTART:20260824T090000
+DTEND:20260824T103000
+SUMMARY:Study 1 — Weak areas
+DESCRIPTION:Focus: Weak areas\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb4fefb-5196-4aaf-bde8-d52240b93c65
+DTSTAMP:20260731T173909
+DTSTART:20260824T104500
+DTEND:20260824T121500
+SUMMARY:Study 2 — Weak areas
+DESCRIPTION:Focus: Weak areas\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:93347fed-5181-4d4d-bc00-47b522371ff3
+DTSTAMP:20260731T173909
+DTSTART:20260824T130000
+DTEND:20260824T143000
+SUMMARY:Study 3 — Weak areas
+DESCRIPTION:Focus: Weak areas\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:5d7b0b4a-0b2c-4c60-8c2e-9b9d823e8d45
+DTSTAMP:20260731T173909
+DTSTART:20260824T144500
+DTEND:20260824T154500
+SUMMARY:Flashcards / Review — Weak areas
+DESCRIPTION:Focus: Weak areas\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:f34fc736-10be-418f-a505-ba4e70fee79c
+DTSTAMP:20260731T173909
+DTSTART:20260825T090000
+DTEND:20260825T103000
+SUMMARY:Study 1 — Math review
+DESCRIPTION:Focus: Math review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:7e00c270-b468-4cc4-aa6b-2e386fed03a3
+DTSTAMP:20260731T173909
+DTSTART:20260825T104500
+DTEND:20260825T121500
+SUMMARY:Study 2 — Math review
+DESCRIPTION:Focus: Math review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:8a90e732-ad06-4303-8f64-70a23cf2e658
+DTSTAMP:20260731T173909
+DTSTART:20260825T130000
+DTEND:20260825T143000
+SUMMARY:Study 3 — Math review
+DESCRIPTION:Focus: Math review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:5df5c4ea-bf0a-407b-9788-bf7c84328d33
+DTSTAMP:20260731T173909
+DTSTART:20260825T144500
+DTEND:20260825T154500
+SUMMARY:Flashcards / Review — Math review
+DESCRIPTION:Focus: Math review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:0cd01ac3-ed95-4e5d-bf15-505bc5e3d7da
+DTSTAMP:20260731T173909
+DTSTART:20260826T090000
+DTEND:20260826T103000
+SUMMARY:Study 1 — Science review
+DESCRIPTION:Focus: Science review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:c82787ba-5679-416a-915b-9a756b737478
+DTSTAMP:20260731T173909
+DTSTART:20260826T104500
+DTEND:20260826T121500
+SUMMARY:Study 2 — Science review
+DESCRIPTION:Focus: Science review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:e4f5ef76-9404-4495-a7c5-db0cd2203d8d
+DTSTAMP:20260731T173909
+DTSTART:20260826T130000
+DTEND:20260826T143000
+SUMMARY:Study 3 — Science review
+DESCRIPTION:Focus: Science review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:94b75f98-fbc2-40b7-bafc-c8cf4e902583
+DTSTAMP:20260731T173909
+DTSTART:20260826T144500
+DTEND:20260826T154500
+SUMMARY:Flashcards / Review — Science review
+DESCRIPTION:Focus: Science review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:5bede89c-627f-469a-a9bc-332478f0d76f
+DTSTAMP:20260731T173909
+DTSTART:20260827T090000
+DTEND:20260827T103000
+SUMMARY:Study 1 — Reading review
+DESCRIPTION:Focus: Reading review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:fb4128c1-7ab3-47a0-8208-9992dcb7b4ac
+DTSTAMP:20260731T173909
+DTSTART:20260827T104500
+DTEND:20260827T121500
+SUMMARY:Study 2 — Reading review
+DESCRIPTION:Focus: Reading review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:b3bb2ab3-674f-4162-979a-5f5333e54f54
+DTSTAMP:20260731T173909
+DTSTART:20260827T130000
+DTEND:20260827T143000
+SUMMARY:Study 3 — Reading review
+DESCRIPTION:Focus: Reading review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:9c6fc620-95e6-4918-ab2a-22e1c07ee65b
+DTSTAMP:20260731T173909
+DTSTART:20260827T144500
+DTEND:20260827T154500
+SUMMARY:Flashcards / Review — Reading review
+DESCRIPTION:Focus: Reading review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:69095832-0cd2-4e4c-9c8e-1bfa2f449706
+DTSTAMP:20260731T173909
+DTSTART:20260828T090000
+DTEND:20260828T103000
+SUMMARY:Study 1 — Practice Exam #2
+DESCRIPTION:Focus: Practice Exam #2\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:e42eae51-f815-4301-8a73-07409c79acac
+DTSTAMP:20260731T173909
+DTSTART:20260828T104500
+DTEND:20260828T121500
+SUMMARY:Study 2 — Practice Exam #2
+DESCRIPTION:Focus: Practice Exam #2\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:09d4f436-e513-484a-870e-030ba297681c
+DTSTAMP:20260731T173909
+DTSTART:20260828T130000
+DTEND:20260828T143000
+SUMMARY:Study 3 — Practice Exam #2
+DESCRIPTION:Focus: Practice Exam #2\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:7446e2e3-9315-4819-9287-d8afa74d9d35
+DTSTAMP:20260731T173909
+DTSTART:20260828T144500
+DTEND:20260828T154500
+SUMMARY:Flashcards / Review — Practice Exam #2
+DESCRIPTION:Focus: Practice Exam #2\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:1f644c29-743d-48ed-81f6-475db71be827
+DTSTAMP:20260731T173909
+DTSTART:20260829T090000
+DTEND:20260829T103000
+SUMMARY:Study 1 — Practice Exam #3
+DESCRIPTION:Focus: Practice Exam #3\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:cb2962c7-2928-459c-bbeb-4c06d8419cd6
+DTSTAMP:20260731T173909
+DTSTART:20260829T104500
+DTEND:20260829T121500
+SUMMARY:Study 2 — Practice Exam #3
+DESCRIPTION:Focus: Practice Exam #3\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:4146ca6d-ed45-4847-bef9-d38efd4a2fdf
+DTSTAMP:20260731T173909
+DTSTART:20260829T130000
+DTEND:20260829T143000
+SUMMARY:Study 3 — Practice Exam #3
+DESCRIPTION:Focus: Practice Exam #3\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:92417750-6ea4-492b-92d7-6a1699bc1069
+DTSTAMP:20260731T173909
+DTSTART:20260829T144500
+DTEND:20260829T154500
+SUMMARY:Flashcards / Review — Practice Exam #3
+DESCRIPTION:Focus: Practice Exam #3\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:3759653c-b952-4d22-a2ca-14ef96445e85
+DTSTAMP:20260731T173909
+DTSTART:20260830T090000
+DTEND:20260830T103000
+SUMMARY:Study 1 — Final review
+DESCRIPTION:Focus: Final review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:5da3d6ab-5448-47a1-90b6-0e593418ff60
+DTSTAMP:20260731T173909
+DTSTART:20260830T104500
+DTEND:20260830T121500
+SUMMARY:Study 2 — Final review
+DESCRIPTION:Focus: Final review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:09c1d885-acbe-4783-be61-dc9428630dfb
+DTSTAMP:20260731T173909
+DTSTART:20260830T130000
+DTEND:20260830T143000
+SUMMARY:Study 3 — Final review
+DESCRIPTION:Focus: Final review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:7d44f322-7fd6-425c-92fb-f2c60a84871c
+DTSTAMP:20260731T173909
+DTSTART:20260830T144500
+DTEND:20260830T154500
+SUMMARY:Flashcards / Review — Final review
+DESCRIPTION:Focus: Final review\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:2c4db489-a04a-498f-9e56-e377ff6704d4
+DTSTAMP:20260731T173909
+DTSTART:20260831T090000
+DTEND:20260831T103000
+SUMMARY:Study 1 — Confidence day
+DESCRIPTION:Focus: Confidence day\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:951f6948-8f09-4921-97b8-a4051c7b1b37
+DTSTAMP:20260731T173909
+DTSTART:20260831T104500
+DTEND:20260831T121500
+SUMMARY:Study 2 — Confidence day
+DESCRIPTION:Focus: Confidence day\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:4e750510-d592-4be4-a461-6d0301de2e52
+DTSTAMP:20260731T173909
+DTSTART:20260831T130000
+DTEND:20260831T143000
+SUMMARY:Study 3 — Confidence day
+DESCRIPTION:Focus: Confidence day\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+BEGIN:VEVENT
+UID:bcd1a076-47f5-4af5-bd7c-a25d86495a82
+DTSTAMP:20260731T173909
+DTSTART:20260831T144500
+DTEND:20260831T154500
+SUMMARY:Flashcards / Review — Confidence day
+DESCRIPTION:Focus: Confidence day\nResources: \n\nGoals:\n- Complete lessons\n- 30 practice questions\n- Review mistakes\n- 20 minutes flashcards\n- Drink water and stretch during breaks
+END:VEVENT
+END:VCALENDAR
