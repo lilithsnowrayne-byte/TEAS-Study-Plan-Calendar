@@ -1,0 +1,5 @@
+name: Compile LaTeX and generate ICS
+
+on: push: branches: [ main ]
+
+jobs: build: runs-on: ubuntu-latest steps: - name: Checkout uses: actions/checkout@v4 - name: Install TeX Live and Python deps run: | sudo apt-get update sudo apt-get install -y texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-fonts-extra texlive-lang-english python3 python3-pip - name: Run ICS generator working-directory: ${{ github.workspace }} run: | python3 scripts/generate_combined_ics.py || true - name: Compile planner_full.tex working-directory: ${{ github.workspace }} run: | if [ -f planner_full.tex ]; then pdflatex -interaction=nonstopmode planner_full.tex || true pdflatex -interaction=nonstopmode planner_full.tex || true else echo "planner_full.tex not found" exit 0 fi - name: Commit generated files if: success() uses: stefanzweifel/git-auto-commit-action@v4 with: commit_message: "Add generated planner_full.pdf and planner_combined.ics" file_pattern: "planner_full.pdf, planner_combined.ics"
