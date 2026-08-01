@@ -1,15 +1,105 @@
-% Full TEAS 30-Day Planner (A4, minimal) \documentclass[11pt,a4paper]{article} \usepackage[utf8]{inputenc} \usepackage[T1]{fontenc} \usepackage{geometry} \usepackage{xcolor} \usepackage{hyperref} \usepackage{parskip} \usepackage{array} \geometry{left=20mm,right=20mm,top=18mm,bottom=18mm} \pagestyle{empty}
+% Full TEAS 30-Day Planner (A4, minimal)
 
-% Color definitions (minimal palette) \definecolor{mathcolor}{HTML}{4F86F7} \definecolor{sciencecolor}{HTML}{34A853} \definecolor{readingcolor}{HTML}{FBBC05} \definecolor{englishcolor}{HTML}{EA4335}
+\documentclass[11pt,a4paper]{article}
 
-\newcommand{\SectionDivider}[2]{% \vspace*{6mm} \noindent\colorbox{#1}{\parbox{\linewidth}{\vspace{6pt}\centering\Large\bfseries\color{white}#2\vspace{6pt}}} \vspace{6mm} }
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{array}
+
+\geometry{
+    left=20mm,
+    right=20mm,
+    top=18mm,
+    bottom=18mm
+}
+
+\pagestyle{empty}
+
+%--------------------------------------------------
+% Color definitions
+%--------------------------------------------------
+
+\definecolor{mathcolor}{HTML}{4F86F7}
+\definecolor{sciencecolor}{HTML}{34A853}
+\definecolor{readingcolor}{HTML}{FBBC05}
+\definecolor{englishcolor}{HTML}{EA4335}
+
+%--------------------------------------------------
+% Section divider
+%--------------------------------------------------
+
+\newcommand{\SectionDivider}[2]{%
+    \vspace*{6mm}
+    \noindent
+    \colorbox{#1}{%
+        \parbox{\linewidth}{%
+            \vspace{6pt}
+            \centering
+            \Large\bfseries\color{white}#2
+            \vspace{6pt}
+        }%
+    }
+    \vspace{6mm}
+}
 
 \begin{document}
 
-% Cover Page \begin{center} {\LARGE\bfseries TEAS 30-Day Study Planner}\[8pt] {\large August 2--31, 2026}\[16pt] {\normalsize Minimal color-coded planner (50+ pages output)}\[12pt] \vfill {\small Generated from repository: TEAS-Study-Plan-Calendar} \end{center} \newpage
+%--------------------------------------------------
+% Cover Page
+%--------------------------------------------------
 
-% Quick cheat sheets placeholder {\large \textbf{Cheat sheets (grammar, math formulas, science facts)}}\[6pt] \rule{\linewidth}{0.5pt}\[6pt] % (More detailed pages follow per day) \newpage
+\begin{center}
 
-% If you maintain per-day content in planner_days.tex, include it here: \IfFileExists{planner_days.tex}{\input{planner_days.tex}}{}
+{\LARGE\bfseries TEAS 30-Day Study Planner}
+
+\vspace{8pt}
+
+{\large August 2--31, 2026}
+
+\vspace{16pt}
+
+{\normalsize Minimal color-coded planner (50+ pages output)}
+
+\vfill
+
+{\small Generated from repository: TEAS-Study-Plan-Calendar}
+
+\end{center}
+
+\newpage
+
+%--------------------------------------------------
+% Cheat Sheets
+%--------------------------------------------------
+
+{\Large\textbf{Cheat Sheets}}
+
+\vspace{6pt}
+
+\rule{\linewidth}{0.5pt}
+
+\vspace{10pt}
+
+Grammar rules, math formulas, science facts, and reading strategies may be inserted here.
+
+\newpage
+
+%--------------------------------------------------
+% Daily planner pages
+%--------------------------------------------------
+
+\IfFileExists{planner_days.tex}{
+    \input{planner_days.tex}
+}{
+    \section*{Planner Pages Missing}
+
+The file \texttt{planner\_days.tex} was not found.
+
+Generate or add that file to include the daily planner pages.
+}
 
 \end{document}
